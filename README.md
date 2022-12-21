@@ -25,7 +25,7 @@
 
 ## Sobre mim
  
-  Apaixonada pelo desenvolvimento de soluções e por novos desafios! Meu objetivo é ultrapassar as minhas próprias barreiras!
+  Apaixonada pelo desenvolvimento de software e por novos desafios! Meu objetivo é ultrapassar as minhas próprias barreiras!
 
 ## Minhas redes sociais
   <br>
