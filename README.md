@@ -7,25 +7,8 @@
 </div>
   
 ## Technologies that I've worked or worked on
- <div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-   <img align="center"  height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center"  height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-   <img align="center"  height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center"  height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-   <img align="center"  height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-   <img align="center"  height="30" width="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-          
+ 
+  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,kafka,postgresql,golang,git,kubernetes,c,docker,aws,gcp,maven,postman,linux&theme=light)](https://skillicons.dev)
           
           
    
